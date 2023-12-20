@@ -1,2 +1,6 @@
 add
+<<<<<<< HEAD
 hello2
+=======
+HELLO
+>>>>>>> 9b8461e24892c3830cdfab26c12ae458ea2a91d7
