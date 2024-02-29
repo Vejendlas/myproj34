@@ -1,1 +1,5 @@
-my name is kranthi1
+<<<<<<< HEAD
+my name is kranthi
+=======
+my name is kranthi
+>>>>>>> 26b01523a0a329ffa6e5b92ef14b4bf328156ca4
